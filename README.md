@@ -5,9 +5,9 @@ login for user  : localhost/laravel_auth/public/login <br>
 login for admin : localhost/laravel_auth/public/admin <br>
 
 akun :          <br>
-    member  : 1. email      : hugo@gmail.com
-              2. password   : hugoiman
+    member  : email      : hugo@gmail.com, 
+              password   : hugoiman
                 <br>
-    admin   : 1. email      : admin@admin.com
-              2. password   : hugoiman
+    admin   : email      : admin@admin.com, 
+              password   : hugoiman
         
